@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/internship-mern-webstack/static/css/main.24fcfe27.css",
+    "main.js": "/internship-mern-webstack/static/js/main.720476fe.js",
+    "static/media/flat-lay-green-vegetables-fruits.jpg": "/internship-mern-webstack/static/media/flat-lay-green-vegetables-fruits.f77d6db9a09d241e8eaf.jpg",
+    "index.html": "/internship-mern-webstack/index.html",
+    "main.24fcfe27.css.map": "/internship-mern-webstack/static/css/main.24fcfe27.css.map",
+    "main.720476fe.js.map": "/internship-mern-webstack/static/js/main.720476fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24fcfe27.css",
+    "static/js/main.720476fe.js"
+  ]
+}
